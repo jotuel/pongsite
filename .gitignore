@@ -37,3 +37,4 @@ jspm_packages
 
 # compiled app
 dist
+_fresh
